@@ -1,15 +1,4 @@
-
-
-  ______ _                    _____                                  ____   ___   ___   ___  
- |  ____| |                  / ____|                                |___ \ / _ \ / _ \ / _ \ 
- | |__  | |__   __ _ _   _  | (___   ___ _ __ __ _ _ __   ___ _ __    __) | | | | | | | | | |
- |  __| | '_ \ / _` | | | |  \___ \ / __| '__/ _` | '_ \ / _ \ '__|  |__ <| | | | | | | | | |
- | |____| |_) | (_| | |_| |  ____) | (__| | | (_| | |_) |  __/ |     ___) | |_| | |_| | |_| |
- |______|_.__/ \__,_|\__, | |_____/ \___|_|  \__,_| .__/ \___|_|    |____/ \___/ \___/ \___/ 
-                      __/ |                       | |                                        
-                     |___/                        |_|                                        
-
-
+# Ebay Scraper 3000
 This program scrapes ebay using the scripts above, i only have it working for in linux (tested in mint and piOS) and using firefox
 the dependencies are as followed:
 - Python3
