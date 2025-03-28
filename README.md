@@ -1,5 +1,5 @@
 # Ebay Scraper 3000
-This program scrapes ebay using the scripts above, i only have it working for in linux (tested in mint and piOS) and using firefox.
+This program scrapes ebay finding the most recent deals and sends them to your own personal discord server! I only have it working for in linux (tested in mint and piOS) and using firefox.
 the dependencies are as followed:
 - Python3
 - firefox
